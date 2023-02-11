@@ -1,4 +1,4 @@
-Omadbek  => 
-Azimxo'ja => 
-Abdulaziz => 
-Mirabdulloh => 
+﻿Omadbek  => header section ya’ni navbar va uning pasti
+Azimxo'ja =>  popular section ya’ni 3 - section
+Abdulaziz =>  footer section
+Mirabdulloh => starter section ya’ni 2- section
