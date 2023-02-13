@@ -1033,6 +1033,11 @@ video {
   background-color: #268EAA80;
 }
 
+.bg-\[\#2BDE6F\] {
+  --tw-bg-opacity: 1;
+  background-color: rgb(43 222 111 / var(--tw-bg-opacity));
+}
+
 .bg-\[\#45B871\] {
   --tw-bg-opacity: 1;
   background-color: rgb(69 184 113 / var(--tw-bg-opacity));
@@ -1051,6 +1056,10 @@ video {
 .bg-\[\#E4F5EB\] {
   --tw-bg-opacity: 1;
   background-color: rgb(228 245 235 / var(--tw-bg-opacity));
+}
+
+.bg-\[\#F19300EB\] {
+  background-color: #F19300EB;
 }
 
 .bg-\[\#FF4848\] {
